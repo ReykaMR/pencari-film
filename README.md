@@ -20,7 +20,7 @@ Dibuat menggunakan **Bootstrap 5**, **Jquery**, dan **API OMDb** untuk mengambil
 ## 🛠 Teknologi yang Digunakan
 - **HTML5**
 - **CSS3** (Bootstrap 5.3)
-- **JavaScript (jQuery 3.7)**
+- **JavaScript** (jQuery 3.7)
 - **[OMDb API](https://www.omdbapi.com/)**
 
 ---
