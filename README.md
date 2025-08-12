@@ -3,7 +3,9 @@
 Aplikasi pencarian dan penampilan film terbaru berdasarkan tahun berjalan.  
 Dibuat menggunakan **Bootstrap 5**, **Jquery**, dan **API OMDb** untuk mengambil data film secara real-time.
 
-![Screenshot Aplikasi](screenshot.png)
+![Screenshot Aplikasi 1](https://github.com/ReykaMR/pencari-film/blob/df3d75a93b58342dfacf8340a8863d950dbce650/screenshoot-aplikasi/foto1.PNG)
+![Screenshot Aplikasi 2](https://github.com/ReykaMR/pencari-film/blob/df3d75a93b58342dfacf8340a8863d950dbce650/screenshoot-aplikasi/foto2.PNG)
+![Screenshot Aplikasi 3](https://github.com/ReykaMR/pencari-film/blob/df3d75a93b58342dfacf8340a8863d950dbce650/screenshoot-aplikasi/foto3.PNG)
 
 ---
 
