@@ -4,6 +4,10 @@ Aplikasi pencarian dan penampilan film terbaru berdasarkan tahun berjalan.
 Dibuat menggunakan **Bootstrap 5**, **Jquery**, dan **API OMDb** untuk mengambil data film secara real-time.
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OMDB API](https://img.shields.io/badge/OMDb_API-black?style=for-the-badge&logo=api&logoColor=white)
 
 ![Screenshot Aplikasi 1](https://github.com/ReykaMR/pencari-film/blob/df3d75a93b58342dfacf8340a8863d950dbce650/screenshoot-aplikasi/foto1.PNG)
 ![Screenshot Aplikasi 2](https://github.com/ReykaMR/pencari-film/blob/df3d75a93b58342dfacf8340a8863d950dbce650/screenshoot-aplikasi/foto2.PNG)
