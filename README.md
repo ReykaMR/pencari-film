@@ -43,5 +43,5 @@ Dibuat menggunakan **Bootstrap 5.3**, **jQuery 3.7**, dan **API OMDb** untuk men
 1. Clone repositori:
    ```bash
    git clone https://github.com/reykamr/pencari-film.git
-2. Buka file script.js, lalu Isi YOUR_API_KEY menggunakan API KEY pribadi dengan melakukan generate API KEY di website OMDB.
+2. Buka file script.js, lalu Isi YOUR_API_KEY menggunakan API Key pribadi dengan melakukan generate API Key di website **[OMDb API](https://www.omdbapi.com/apikey.aspx)**.
 3. Buka file index.html di browser favorit masing-masing.
