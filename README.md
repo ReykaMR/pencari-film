@@ -14,9 +14,9 @@ Dibuat menggunakan **Bootstrap 5.3**, **jQuery 3.7**, dan **API OMDb** untuk men
 ## 📸 Tampilan Aplikasi
 <table>
   <tr>
-    <td><img src="screenshoot-aplikasi/foto1.PNG" alt="Screenshot 1" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto2.PNG" alt="Screenshot 2" width="100%" height="250"></td>
-    <td><img src="screenshoot-aplikasi/foto3.PNG" alt="Screenshot 3" width="100%" height="250"></td>
+    <td><img src="screenshoot-aplikasi/foto1.png" alt="Screenshot 1" width="100%" height="250"></td>
+    <td><img src="screenshoot-aplikasi/foto2.png" alt="Screenshot 2" width="100%" height="250"></td>
+    <td><img src="screenshoot-aplikasi/foto3.png" alt="Screenshot 3" width="100%" height="250"></td>
   </tr>
 </table>
 
