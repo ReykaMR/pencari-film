@@ -4,6 +4,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![OMDB API](https://img.shields.io/badge/OMDb_API-black?style=for-the-badge&logo=api&logoColor=white)
 
 Aplikasi pencarian dan penayangan film terbaru berdasarkan tahun berjalan.  
