@@ -1,4 +1,4 @@
-const API_KEY = "6033a7d2";
+const API_KEY = "YOUR_API_KEY";
 
 $(document).ready(function () {
     loadRandomMovies();
